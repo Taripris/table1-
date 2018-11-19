@@ -1,0 +1,31 @@
+.nations{
+    background-color:grey;
+    margin-top:10px;
+}
+th{
+    background-color:#EAC906;
+    font-family:helvetica;
+    text-decoration: underline;
+}
+table{
+    border:2px solid black;
+    background-color:#F9ECAF;
+    margin-left:300px;
+    
+}
+.na{
+    background-color:white;
+
+}
+.wa{
+    background-color:#EE302C;
+}
+.ca{
+    background-color:#32AF4A;
+}
+.ea{
+    background-color:#0672F4;
+}
+.sa{
+    background-color: #F9B058;
+}
